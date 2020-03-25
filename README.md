@@ -1,2 +1,0 @@
-# ObjectItemsFilter
-Created with CodeSandbox
